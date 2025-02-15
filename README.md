@@ -1,7 +1,7 @@
 <h3> Here is a Glimps of the web application</h3>
 <br/>
 <h1>Home</h1>
-![Screenshot 2025-02-15 192420](https://github.com/user-attachments/assets/22649f59-a5da-49fa-a61f-edcaef3630b8)
+<img src="![Screenshot 2025-02-15 192420](https://github.com/user-attachments/assets/22649f59-a5da-49fa-a61f-edcaef3630b8)"/>
 <br/>
 ![Screenshot 2025-02-15 192428](https://github.com/user-attachments/assets/a145a252-b183-4ff6-94d0-2550af717f78)
 ![Screenshot 2025-02-15 192436](https://github.com/user-attachments/assets/262fd92c-92aa-4cb1-b1bb-75ff0acecc2b)
